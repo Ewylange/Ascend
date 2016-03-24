@@ -18,7 +18,7 @@ public class YouShallNotPass : MonoBehaviour
 	{
 		//Si le le joueur touche le bas gameover et restart
 		if (col.gameObject.name == "Player") {
-			Application.LoadLevel (Application.loadedLevel);	
+			Application.LoadLevel (12);	
 			_savingSysthem.GetComponent<savingSysthem> ()._actualLevelCoin = 0;
 		}
 	}

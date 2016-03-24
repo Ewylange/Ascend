@@ -63,6 +63,7 @@
      <Compile Include="Assets\Scripts\HistoryScript\turretLikeEnnemies.cs" />
      <Compile Include="Assets\Scripts\HistoryScript\wallsClosing.cs" />
      <Compile Include="Assets\Scripts\MenuScript\GoToMenu.cs" />
+     <Compile Include="Assets\Scripts\MenuScript\Load.cs" />
      <Compile Include="Assets\Scripts\MenuScript\MenuAndLevel.cs" />
      <Compile Include="Assets\Scripts\MenuScript\ShopScript.cs" />
      <Compile Include="Assets\Scripts\MenuScript\ShowScore.cs" />
