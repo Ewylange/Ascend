@@ -9,8 +9,6 @@ Project("{003C2F88-4180-560C-8977-3CD9D9DB7001}") = "Ascend_V2.4", "Assembly-CSh
 EndProject
 Project("{003C2F88-4180-560C-8977-3CD9D9DB7001}") = "Ascend_V2.4", "Assembly-CSharp-Editor.csproj", "{B494AA54-8DE2-4C72-FD61-A4D1BADC48F9}"
 EndProject
-Project("{003C2F88-4180-560C-8977-3CD9D9DB7001}") = "Ascend_V2.4", "Assembly-UnityScript.unityproj", "{E4CAA53E-2A0C-E428-F7EA-5B5390C36F65}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,10 +31,6 @@ Global
 		{B494AA54-8DE2-4C72-FD61-A4D1BADC48F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B494AA54-8DE2-4C72-FD61-A4D1BADC48F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B494AA54-8DE2-4C72-FD61-A4D1BADC48F9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E4CAA53E-2A0C-E428-F7EA-5B5390C36F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E4CAA53E-2A0C-E428-F7EA-5B5390C36F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E4CAA53E-2A0C-E428-F7EA-5B5390C36F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E4CAA53E-2A0C-E428-F7EA-5B5390C36F65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -60,5 +54,4 @@ Global
 		$3.inheritsScope = text/plain
 		$3.scope = text/plain
 	EndGlobalSection
-
 EndGlobal
